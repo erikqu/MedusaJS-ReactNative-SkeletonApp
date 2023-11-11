@@ -7,7 +7,7 @@ Using [medusaJS](https://medusajs.com) for the backend and react native for the 
 - `npm install && npm run build && npm run ios` from the within the app root directory to start up the app (requires expo/ios simulator). 
 
 ### Screens
-![Shop page](resouces/ShopScreen.png?raw=true "Shop page")
-![Login page](resouces/LoginScreen.png?raw=true "Login page")
-![Settings page](resouces/Settings.png?raw=true "Settings page")
+![Shop page](resources/ShopScreen.png?raw=true "Shop page")
+![Login page](resources/LoginScreen.png?raw=true "Login page")
+![Settings page](resources/Settings.png?raw=true "Settings page")
 
